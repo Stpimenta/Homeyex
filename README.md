@@ -1,16 +1,3 @@
 # homeyex
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A ideia por trás deste aplicativo é criar uma plataforma que permita a interação e o gerenciamento de dispositivos conectados, como relés, lâmpadas, portões e outros dispositivos automatizados. O aplicativo foi projetado para proporcionar uma experiência intuitiva ao usuário, permitindo o controle remoto de dispositivos de forma simples e eficaz.
